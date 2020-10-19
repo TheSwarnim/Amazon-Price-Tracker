@@ -1,0 +1,117 @@
+{
+  "title": "PS4",
+  "date": "19/10/2020 23:17:45",
+  "best_item": {
+    "asin": "B07V9YY8G8",
+    "url": "https://www.amazon.de/dp/B07V9YY8G8",
+    "title": "PS4 Slim 500gb schwarz Playstation 4 Konsole + FIFA 20",
+    "seller": "Brand: Sony Playstation 4",
+    "price": 296.9
+  },
+  "currency": "\u20ac",
+  "filters": {
+    "min": "275",
+    "max": "650"
+  },
+  "base_link": "https://www.amazon.de/",
+  "products": [
+    {
+      "asin": "B07HHPX4N1",
+      "url": "https://www.amazon.de/dp/B07HHPX4N1",
+      "title": "PlayStation 4 - Konsole (500 GB, schwarz, slim, F-Chassis) inkl. 2 DualShock 4 Controller",
+      "seller": "Brand: Sony Interactive Entertainment",
+      "price": 339.65
+    },
+    {
+      "asin": "B07HSJW7HK",
+      "url": "https://www.amazon.de/dp/B07HSJW7HK",
+      "title": "PlayStation 4 Pro - Konsole (1 TB, schwarz, Pro, Modell: CUH-7216B)",
+      "seller": "Brand: Sony Interactive Entertainment",
+      "price": 370.05
+    },
+    {
+      "asin": "B085PB4B6J",
+      "url": "https://www.amazon.de/dp/B085PB4B6J",
+      "title": "PlayStation 4 Pro - Konsole (1 TB, schwarz) PS Hits Naughty Dog Bundle",
+      "seller": "Brand: Sony Interactive Entertainment",
+      "price": 416.84
+    },
+    {
+      "asin": "B08HJ2Y55F",
+      "url": "https://www.amazon.de/dp/B08HJ2Y55F",
+      "title": "PlayStation 4 Slim - Konsole General\u00fcberholt (500GB, schwarz, F-Chassis, 12 Monate Herstellergarantie)",
+      "seller": "Brand: Sony Interactive Entertainment",
+      "price": 299.99
+    },
+    {
+      "asin": "B07KMV94JF",
+      "url": "https://www.amazon.de/dp/B07KMV94JF",
+      "title": "PlayStation 4 Slim - Konsole (1TB, schwarz)",
+      "seller": "Brand: Sony Interactive Entertainment",
+      "price": 327.58
+    },
+    {
+      "asin": "B07W7KFFFF",
+      "url": "https://www.amazon.de/dp/B07W7KFFFF",
+      "title": "Logitech G 923 steering wheel with pedals for Playstation PS4 & PC, trueforce force feedback up to 1000 Hz, responsive driving design, automatic start with double coupling system, genuine leather steering wheel, black",
+      "seller": "Brand: Logitech G",
+      "price": 399.0
+    },
+    {
+      "asin": "B01LX4669V",
+      "url": "https://www.amazon.de/dp/B01LX4669V",
+      "title": "Sony Playstation 4 1TB Slim + 2 Controllers",
+      "seller": "Brand: Sony Interactive Entertainment",
+      "price": 366.66
+    },
+    {
+      "asin": "B07WHSY2WT",
+      "url": "https://www.amazon.de/dp/B07WHSY2WT",
+      "title": "PlayStation 4 Slim - Konsole (1 TB, schwarz) inkl. FIFA 20 + 2 DualShock Controller",
+      "seller": "Brand: Sony Interactive Entertainment",
+      "price": 389.0
+    },
+    {
+      "asin": "B07V9YY8G8",
+      "url": "https://www.amazon.de/dp/B07V9YY8G8",
+      "title": "PS4 Slim 500gb schwarz Playstation 4 Konsole + FIFA 20",
+      "seller": "Brand: Sony Playstation 4",
+      "price": 296.9
+    },
+    {
+      "asin": "B07V9JZB2C",
+      "url": "https://www.amazon.de/dp/B07V9JZB2C",
+      "title": "PS4 Slim 1TB schwarz Playstation 4 Konsole + FIFA 20 + 2 DualShock 4 Controller",
+      "seller": "Brand: Sony Playstation 4",
+      "price": 379.99
+    },
+    {
+      "asin": "B07V282WBB",
+      "url": "https://www.amazon.de/dp/B07V282WBB",
+      "title": "PlayStation 4 Slim - Konsole (500GB, Jet Black) + 2 Controller: Fortnite Neo Versa Bundle",
+      "seller": "Brand: Sony Interactive Entertainment",
+      "price": 389.99
+    },
+    {
+      "asin": "B07WDKT7DP",
+      "url": "https://www.amazon.de/dp/B07WDKT7DP",
+      "title": "PlayStation 4 Pro - Konsole (1TB) inkl. FIFA 20",
+      "seller": "Brand: Sony Interactive Entertainment",
+      "price": 399.0
+    },
+    {
+      "asin": "B01GVQVNKM",
+      "url": "https://www.amazon.de/dp/B01GVQVNKM",
+      "title": "Sony PlayStation 4 1TB [CUH-2016B] UK Version",
+      "seller": "Visit the Sony Store",
+      "price": 334.13
+    },
+    {
+      "asin": "B07YSW8PRS",
+      "url": "https://www.amazon.de/dp/B07YSW8PRS",
+      "title": "PlayStation 4 Pro - Konsole inkl. Call of Duty - Modern Warfare (1TB, schwarz, Pro)",
+      "seller": "Brand: Sony Interactive Entertainment",
+      "price": 429.0
+    }
+  ]
+}
